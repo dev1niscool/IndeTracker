@@ -1,0 +1,100 @@
+[
+  {
+    "id": "variety",
+    "name": "Variety",
+    "url": "https://variety.com/",
+    "domains": [
+      "variety.com",
+      "au.variety.com"
+    ],
+    "type": "Entertainment trade",
+    "feeds": [
+      "https://variety.com/tag/inde-navarrette/feed/",
+      "https://variety.com/feed/"
+    ],
+    "description": "Industry reporting on casting, film releases, festivals, awards and television. Original reporting is preferred over syndicated copies."
+  },
+  {
+    "id": "deadline",
+    "name": "Deadline",
+    "url": "https://deadline.com/",
+    "domains": [
+      "deadline.com"
+    ],
+    "type": "Entertainment trade",
+    "feeds": [
+      "https://deadline.com/tag/inde-navarrette/feed/",
+      "https://deadline.com/feed/"
+    ],
+    "description": "Film and television industry reporting. Casting announcements and production news qualify; speculative deal chatter does not."
+  },
+  {
+    "id": "thr",
+    "name": "The Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/",
+    "domains": [
+      "hollywoodreporter.com"
+    ],
+    "type": "Entertainment trade",
+    "feeds": [
+      "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
+      "https://www.hollywoodreporter.com/feed/"
+    ],
+    "description": "Entertainment reporting and professional interviews. A meeting, an expression of interest, or a rumor is not treated as a confirmed role."
+  },
+  {
+    "id": "focus",
+    "name": "Focus Features",
+    "url": "https://www.focusfeatures.com/",
+    "domains": [
+      "focusfeatures.com"
+    ],
+    "type": "Official studio source",
+    "feeds": [],
+    "description": "First-party release information and production interviews. Studio publicity is labeled as such; commercial claims are attributed to the studio."
+  },
+  {
+    "id": "gq",
+    "name": "GQ",
+    "url": "https://www.gq.com/",
+    "domains": [
+      "gq.com"
+    ],
+    "type": "Selected interviews",
+    "feeds": [],
+    "description": "Direct, edited conversations about roles, performance and filmmaking. Lifestyle coverage and private-life material are excluded."
+  },
+  {
+    "id": "rt",
+    "name": "Rotten Tomatoes",
+    "url": "https://editorial.rottentomatoes.com/",
+    "domains": [
+      "editorial.rottentomatoes.com"
+    ],
+    "type": "Selected interviews",
+    "feeds": [],
+    "description": "Editorial interviews about films and performances. Promotional partnerships are disclosed where relevant; scores and fan chatter are not news."
+  },
+  {
+    "id": "comicbook",
+    "name": "ComicBook.com",
+    "url": "https://comicbook.com/",
+    "domains": [
+      "comicbook.com"
+    ],
+    "type": "Selected interviews",
+    "feeds": [],
+    "description": "Only individually reviewed, direct interviews about her work. Fan theories, speculation, rankings and routine fandom coverage do not qualify."
+  },
+  {
+    "id": "seventeen",
+    "name": "Seventeen",
+    "url": "https://www.seventeen.com/",
+    "domains": [
+      "seventeen.com"
+    ],
+    "type": "Selected interviews",
+    "feeds": [],
+    "description": "The archive includes a direct interview about 13 Reasons Why and Superman & Lois. This is approval of that article, not the publication's entire celebrity section."
+  }
+]

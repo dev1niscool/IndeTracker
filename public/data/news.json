@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "curatedAt": "2026-09-15",
+  "lastCheckedAt": "2026-09-15T22:55:07.485377+00:00",
+  "lastSuccessfulCheckAt": "2026-09-15T22:55:07.485377+00:00",
+  "feedStatus": [
+    {
+      "sourceId": "variety",
+      "publisher": "Variety",
+      "url": "https://variety.com/tag/inde-navarrette/feed/",
+      "checkedAt": "2026-09-15T22:55:07.485377+00:00",
+      "status": "ok",
+      "itemsChecked": 10,
+      "matches": 6
+    },
+    {
+      "sourceId": "variety",
+      "publisher": "Variety",
+      "url": "https://variety.com/feed/",
+      "checkedAt": "2026-09-15T22:55:07.485377+00:00",
+      "status": "ok",
+      "itemsChecked": 10,
+      "matches": 0
+    },
+    {
+      "sourceId": "deadline",
+      "publisher": "Deadline",
+      "url": "https://deadline.com/tag/inde-navarrette/feed/",
+      "checkedAt": "2026-09-15T22:55:07.485377+00:00",
+      "status": "ok",
+      "itemsChecked": 7,
+      "matches": 4
+    },
+    {
+      "sourceId": "deadline",
+      "publisher": "Deadline",
+      "url": "https://deadline.com/feed/",
+      "checkedAt": "2026-09-15T22:55:07.485377+00:00",
+      "status": "ok",
+      "itemsChecked": 12,
+      "matches": 0
+    },
+    {
+      "sourceId": "thr",
+      "publisher": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
+      "checkedAt": "2026-09-15T22:55:07.485377+00:00",
+      "status": "ok",
+      "itemsChecked": 3,
+      "matches": 2
+    },
+    {
+      "sourceId": "thr",
+      "publisher": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/feed/",
+      "checkedAt": "2026-09-15T22:55:07.485377+00:00",
+      "status": "ok",
+      "itemsChecked": 10,
+      "matches": 0
+    }
+  ],
+  "articles": [
+    {
+      "id": "variety-tiff-return-2026",
+      "title": "‘Obsession’ One Year Later: Inde Navarrette and Curry Barker Dish on Memes, How Nikki Became More ‘Flirty’ and Their Wild Ride at TIFF",
+      "url": "https://variety.com/2026/film/news/inde-navarrette-obsession-nikki-memes-curry-barker-tiff-talk-1236859203/",
+      "date": "2026-09-11",
+      "publishedTimestamp": "2026-09-11T21:11:46+00:00",
+      "publisher": "Variety",
+      "category": "Interview",
+      "tags": [
+        "Obsession",
+        "TIFF",
+        "Acting craft"
+      ],
+      "sourceType": "Direct editorial interview",
+      "review": "curated",
+      "summary": "Navarrette and Curry Barker returned to TIFF to discuss Obsession a year after its premiere. She described her audition, contributions to Nikki’s characterization and growing interest in producing and directing.",
+      "accessNote": "Full original publisher article readable via HTTP 200. Focus the summary on craft; no personal-life or meme details are needed.",
+      "displayTitle": "Inde Navarrette returns to TIFF with Obsession"
+    },
+    {
+      "id": "variety-actors-to-watch-2026",
+      "title": "Jaafar Jackson, Inde Navarrette and Ray Nicholson Among Variety’s 10 Actors to Watch for 2026",
+      "url": "https://variety.com/2026/film/awards/variety-10-actors-to-watch-2026-announcement-1236848865/",
+      "date": "2026-09-09",
+      "publishedTimestamp": "2026-09-09T18:00:00+00:00",
+      "publisher": "Variety",
+      "category": "Film",
+      "tags": [
+        "Recognition",
+        "Obsession"
+      ],
+      "sourceType": "Publisher recognition",
+      "review": "curated",
+      "summary": "Variety named Navarrette to its 2026 class of 10 Actors to Watch, citing her work in Obsession and upcoming role in X-Men. The announcement schedules the group’s profiles and Newport Beach Film Festival celebration for October.",
+      "accessNote": "Full original publisher article readable via HTTP 200. Exact h1 and datePublished checked."
+    },
+    {
+      "id": "waffle-house-index-casting-2026",
+      "title": "Inde Navarrette To Star In ‘The Waffle House Index’ Movie From Apple & Plan B",
+      "url": "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970/",
+      "date": "2026-09-03",
+      "publishedTimestamp": "2026-09-03T17:30:00+00:00",
+      "publisher": "Deadline",
+      "category": "Film",
+      "tags": [
+        "The Waffle House Index",
+        "Casting",
+        "Producing"
+      ],
+      "sourceType": "Trade reporting",
+      "review": "curated",
+      "summary": "Deadline reports that Navarrette is attached to star in and executive produce The Waffle House Index. Apple Original Films acquired the package, with Plan B producing and Louis Paxton attached to direct.",
+      "accessNote": "Full original publisher article readable via HTTP 200. Exact h1, RSS pubDate and article datePublished checked."
+    },
+    {
+      "id": "feed-f11686139b174a",
+      "title": "Inde Navarrette to Star in Sci-Fi Thriller ‘The Waffle House Index’ for Apple Original Films",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-the-waffle-house-index-for-apple-1236689823/",
+      "date": "2026-09-03",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-15T22:52:22.857384+00:00"
+    },
+    {
+      "id": "obsession-awards-campaign-2026",
+      "title": "Inde Navarrette Sets Best Actress Oscar Campaign for ‘Obsession’ as Focus Features Mounts Full Awards Push (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/obsession-inde-navarrette-oscar-campaign-lead-actress-1236848866/",
+      "date": "2026-09-02",
+      "publisher": "Variety",
+      "category": "Film",
+      "tags": [
+        "Obsession",
+        "Awards"
+      ],
+      "sourceType": "Trade reporting",
+      "review": "curated",
+      "summary": "Variety reports that Focus Features will campaign Navarrette for best actress for Obsession as part of a broader awards effort for the film. The report describes a campaign, with nominations still to be decided.",
+      "accessNote": "Original publisher article read; publication date expressed in UTC.",
+      "publishedTimestamp": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "id": "critics-choice-celebracion-2026",
+      "title": "John Leguizamo, Inde Navarrette and James Ortiz Among Latino and Hispanic Stars Set for Honors at Critics Choice Celebración Ceremony",
+      "url": "https://variety.com/2026/film/awards/john-leguizamo-inde-navarrette-critics-choice-latino-celebration-1236840299/",
+      "date": "2026-08-24",
+      "publishedTimestamp": "2026-08-24T16:00:00+00:00",
+      "publisher": "Variety",
+      "category": "Film",
+      "tags": [
+        "Obsession",
+        "Awards"
+      ],
+      "sourceType": "Trade reporting",
+      "review": "curated",
+      "summary": "Navarrette was announced as the recipient of the Breakthrough Actress Award for film at the Critics Choice Association’s Celebración of Cinema & Television. The honor recognizes Obsession, with the ceremony scheduled for October 2.",
+      "accessNote": "Full original publisher article readable via HTTP 200. Exact h1 and datePublished checked. Article currently credits Jazz Tangcay while RSS credits Clayton Davis; byline omitted from publishable record."
+    },
+    {
+      "id": "feed-56abde3c1a2e6d",
+      "title": "‘Obsession’ Star Inde Navarrette, ‘Odyssey’s John Leguizamo, Cannes Hit ‘La Bola Negra’ Among Critics Choice Celebración Of Cinema & TV Honorees",
+      "url": "https://deadline.com/2026/08/inde-navarrette-john-leguizamo-critics-choice-celebracion-1237048356/",
+      "date": "2026-08-24",
+      "publisher": "Deadline",
+      "category": "Television",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-15T22:52:22.857384+00:00"
+    },
+    {
+      "id": "x-men-rogue-casting-2026",
+      "title": "‘X-Men’ Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm",
+      "url": "https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/",
+      "date": "2026-08-15",
+      "publisher": "Variety",
+      "category": "Film",
+      "tags": [
+        "X-Men",
+        "Casting"
+      ],
+      "sourceType": "Trade reporting",
+      "review": "curated",
+      "summary": "Variety reports that Kevin Feige announced Navarrette as Rogue during Marvel Studios’ D23 presentation. The article lists the newly announced cast and a planned May 2028 release.",
+      "accessNote": "Original publisher article read; publication date expressed in UTC.",
+      "publishedTimestamp": "2026-08-15T04:16:48+00:00"
+    },
+    {
+      "id": "feed-493fcb7c803b63",
+      "title": "‘Obsession,’ Inde Navarrette and Curry Barker Are Heading Back to TIFF",
+      "url": "https://variety.com/2026/film/news/tiff-2026-obsession-inde-navarrette-curry-barker-midnight-madness-anna-biller-1236828829/",
+      "date": "2026-08-06",
+      "publisher": "Variety",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-15T22:52:22.857384+00:00"
+    },
+    {
+      "id": "feed-a2c12e0c93a0c2",
+      "title": "Young Hollywood Impact Report 2026: Inde Navarrette, Connor Storrie, Hudson Williams, Lamine Yamal, Olivia Dean and More Rising Showbiz Stars",
+      "url": "https://variety.com/lists/young-hollywood-impact-report-2026-inde-navarrette-connor-storrie-hudson-williams-ishowspeed/",
+      "date": "2026-08-04",
+      "publisher": "Variety",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-15T22:52:22.857384+00:00"
+    },
+    {
+      "id": "feed-3ee4fce69697f9",
+      "title": "Sombr Enlists ‘Obsession’ Star Inde Navarrette and ‘Off Campus’ Actor Josh Heuston for New Music Video",
+      "url": "https://www.hollywoodreporter.com/music/music-news/sombr-obsession-inde-navarrette-off-campus-music-video-1236631369/",
+      "date": "2026-06-26",
+      "publisher": "The Hollywood Reporter",
+      "category": "Music video",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-15T22:52:22.857384+00:00"
+    },
+    {
+      "id": "obsession-box-office-2026",
+      "title": "Obsession Is Breaking Records and Making Movie History",
+      "url": "https://www.focusfeatures.com/article/obsession-is-breaking-records-and-making-movie-history",
+      "date": "2026-06-08",
+      "publisher": "Focus Features",
+      "category": "Film",
+      "tags": [
+        "Obsession",
+        "Box office"
+      ],
+      "sourceType": "Official studio news",
+      "review": "curated",
+      "summary": "Focus Features marks Obsession becoming the distributor’s highest-grossing film worldwide, citing trade coverage of its first four theatrical weekends. Navarrette is identified as the film’s female lead.",
+      "accessNote": "Full article readable."
+    },
+    {
+      "id": "gq-obsession-interview-2026",
+      "title": "How Obsession's Inde Navarrette Went From Twitch Streamer to Scream Queen",
+      "url": "https://www.gq.com/story/obsession-inde-navarrette",
+      "date": "2026-06-05",
+      "publisher": "GQ",
+      "category": "Interview",
+      "tags": [
+        "Obsession",
+        "Acting craft"
+      ],
+      "sourceType": "Direct editorial interview",
+      "review": "curated",
+      "summary": "Navarrette discusses building Nikki’s physical performance, working with director Curry Barker and approaching the film’s most demanding scenes. The interview also explores her interest in continuing to work in horror.",
+      "accessNote": "Full text readable. Source contains major film spoilers; summary avoids plot revelations."
+    },
+    {
+      "id": "feed-2a82f87cd83bc5",
+      "title": "‘Obsession’s Inde Navarrette On Why It Was Important To “Humanize” Nikki: “Meant A Lot To Me”",
+      "url": "https://deadline.com/2026/05/obsession-inde-navarrette-important-humanize-nikki-1236917307/",
+      "date": "2026-05-20",
+      "publisher": "Deadline",
+      "category": "Interview",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-15T22:52:22.857384+00:00"
+    },
+    {
+      "id": "rt-obsession-interview-2026",
+      "title": "Inde Navarrette on Obsession and the Actresses Who Inspire Her",
+      "url": "https://editorial.rottentomatoes.com/article/inde-navarrette-on-obsession-and-the-actresses-who-inspire-her/",
+      "date": "2026-05-18",
+      "publisher": "Rotten Tomatoes",
+      "category": "Interview",
+      "tags": [
+        "Obsession",
+        "Acting craft"
+      ],
+      "sourceType": "Direct editorial interview",
+      "review": "curated",
+      "summary": "In a Rotten Tomatoes and Focus Features interview, Navarrette discusses playing Nikki and the balance of humor and seriousness during filming. She also names performances and films that have influenced her.",
+      "accessNote": "Article readable; embedded video not separately viewed. Summary is limited to the article's editorial description."
+    },
+    {
+      "id": "focus-barker-casting-2026",
+      "title": "Obsession’s Filmmaker Takes Horror to the Next Scary Level",
+      "url": "https://www.focusfeatures.com/article/obsession-s-filmmaker-takes-horror-to-the-next-scary-level",
+      "date": "2026-05-15",
+      "publisher": "Focus Features",
+      "category": "Film",
+      "tags": [
+        "Obsession",
+        "Casting",
+        "Acting craft"
+      ],
+      "sourceType": "Official studio interview",
+      "review": "curated",
+      "summary": "Curry Barker explains the casting of Obsession and how Navarrette shaped Nikki beyond his initial conception of the character. The filmmaker also discusses the visual choices used to support her performance.",
+      "accessNote": "Full article readable."
+    },
+    {
+      "id": "invertigo-casting-2026",
+      "title": "‘Obsession’ & ‘Superman & Lois’ Star Inde Navarrette Set For Rollercoaster Thriller ‘Invertigo’ From ‘Fall’ Producers — EFM",
+      "url": "https://deadline.com/2026/02/obsession-superman-lois-star-inde-navarrette-invertigo-1236715712/",
+      "date": "2026-02-11",
+      "publishedTimestamp": "2026-02-11T18:10:44+00:00",
+      "publisher": "Deadline",
+      "category": "Film",
+      "tags": [
+        "Invertigo",
+        "Casting"
+      ],
+      "sourceType": "Trade reporting",
+      "review": "curated",
+      "summary": "Deadline announced Navarrette as the star of Invertigo, a thriller from producers Capstone and Tea Shop. Matthias Hoene is directing from a script by Kathy Charles and Billy O’Brien.",
+      "accessNote": "Full original article readable via HTTP 200 using urllib. This supersedes the earlier research note that web.open could not fetch this URL."
+    },
+    {
+      "id": "superman-lois-collision-course-2023",
+      "title": "Superman & Lois: Inde Navarrette Talks Impact of Sarah’s Actions in “Collision Course” (Exclusive)",
+      "url": "https://comicbook.com/dc/news/superman-lois-inde-navarrette-talks-impact-of-sarahs-actions-in-collision-course-exclusive/",
+      "date": "2023-05-31",
+      "publisher": "ComicBook.com",
+      "category": "Television",
+      "tags": [
+        "Superman & Lois",
+        "Interview"
+      ],
+      "sourceType": "Direct editorial interview",
+      "review": "curated",
+      "summary": "Navarrette discusses the acting challenges in Sarah’s storyline following the season-three episode Collision Course. She explains how the character’s decisions affect her growth over the following episodes.",
+      "accessNote": "Full article readable. Contains episode spoilers."
+    },
+    {
+      "id": "superman-lois-humanity-2021",
+      "title": "Inde Navarrette on Bringing Humanity to Superman & Lois",
+      "url": "https://comicbook.com/dc/news/inde-navarrette-superman-lois-interview/",
+      "date": "2021-03-09",
+      "publisher": "ComicBook.com",
+      "category": "Television",
+      "tags": [
+        "Superman & Lois",
+        "Interview"
+      ],
+      "sourceType": "Direct editorial interview",
+      "review": "curated",
+      "summary": "Navarrette explains how she prepared to play Sarah Cushing, including research into Lana Lang and conversations with the show’s creative team. She discusses portraying the character’s family dynamics and emotional life.",
+      "accessNote": "Full article readable."
+    },
+    {
+      "id": "seventeen-estela-interview-2020",
+      "title": "\"13 Reasons Why\" Star Inde Navarrette On Bringing to Life Monty's Sister, Estela, in the Show's Final Season",
+      "url": "https://www.seventeen.com/celebrity/movies-tv/a32906039/13-reasons-why-star-inde-navarrette-estela-exclusive-interview/",
+      "date": "2020-06-19",
+      "publisher": "Seventeen",
+      "category": "Television",
+      "tags": [
+        "13 Reasons Why",
+        "Interview"
+      ],
+      "sourceType": "Direct editorial interview",
+      "review": "curated",
+      "summary": "Navarrette discusses joining the final season of 13 Reasons Why as Estela and developing the character’s perspective. The interview also covers her preparation for Superman & Lois.",
+      "accessNote": "Full article readable. Summarize only role and craft discussion; omit personal identity and family material."
+    }
+  ]
+}
