@@ -3,48 +3,72 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#101f32">
-  <meta name="description" content="Follow Inde Navarrette's work through credible reporting, official announcements, and professional interviews. No tabloids or gossip.">
+  <meta name="theme-color" content="#f3f8fd">
+  <meta name="description" content="News about Inde Navarrette: casting, releases, and interviews from credible sources.">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Inde">
-  <meta property="og:title" content="Inde — The news tracker">
-  <meta property="og:description" content="Inde Navarrette's work, from sources worth reading.">
+  <meta property="og:title" content="Inde — News tracker">
+  <meta property="og:description" content="News about Inde Navarrette from credible sources.">
   <meta property="og:type" content="website">
-  <title>Inde — The news tracker</title>
+  <title>Inde — News tracker</title>
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png">
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./styles.css">
-  <script type="module" src="./app.js"></script>
+  <link rel="stylesheet" href="./styles.css?v=2">
+  <script type="module" src="./app.js?v=2"></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to news</a>
-  <div class="ambient" aria-hidden="true"></div>
   <div class="shell">
     <header class="topbar">
-      <a class="brand" href="#news" aria-label="Inde tracker home"><span class="brand-mark">i</span><span class="wordmark">inde<span>.</span></span><span class="brand-caption">THE NEWS<br>TRACKER</span></a>
+      <a class="brand" href="#news" aria-label="Inde tracker home">inde<span>.</span></a>
       <nav class="nav glass" aria-label="Main navigation">
-        <a href="#news" class="nav-item active" data-view="news">Latest news</a>
-        <a href="#sources" class="nav-item" data-view="sources">Sources <span class="nav-spark" aria-hidden="true">✧</span></a>
+        <a href="#news" class="nav-item active" data-view="news">News</a>
+        <a href="#sources" class="nav-item" data-view="sources">Sources</a>
       </nav>
-      <button class="install-button" id="install-button"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="3" width="12" height="18" rx="3"/><path d="M9 12h6m-3-3v6m-1 3h2"/></svg><span>Get the app</span></button>
+      <button class="install-button" id="install-button" aria-label="Install Inde"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="3" width="12" height="18" rx="3"/><path d="M9 12h6m-3-3v6m-1 3h2"/></svg><span>Install</span></button>
     </header>
     <main id="main" tabindex="-1">
       <section id="news-view" class="view" aria-labelledby="news-title">
-        <div class="page-heading"><div><div class="eyebrow">IN FOCUS</div><h1 id="news-title">Inde Navarrette<span class="title-period">.</span></h1><p class="heading-description">Her work, from sources worth reading.</p></div><div class="heading-note"><span class="tiny-symbol" aria-hidden="true">✧</span> Film. Television. Conversations.<br><span>Just the stories that matter.</span></div></div>
-        <div class="toolbar"><div class="filters" role="group" aria-label="Filter news"><button class="filter active" data-filter="All" aria-pressed="true">All news <span id="all-count">0</span></button><button class="filter" data-filter="Film" aria-pressed="false">Film</button><button class="filter" data-filter="Television" aria-pressed="false">Television</button><button class="filter" data-filter="Interview" aria-pressed="false">Interviews</button></div><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.5 4.5"/></svg><input id="search" type="search" placeholder="Search the coverage" aria-label="Search news"></label></div>
-        <div class="news-layout"><div><div class="feed-heading"><h2 id="feed-title">The latest</h2><label class="sort-label"><span class="sr-only">Sort news</span><select id="sort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></label></div><div id="news-feed" aria-live="polite" aria-busy="true"><div class="glass loading-state">Loading the news archive…</div></div></div><aside class="sidebar"><section class="glass standard-card"><span class="section-symbol" aria-hidden="true">✧</span><div class="eyebrow">A LITTLE LESS NOISE</div><h2>Good sources.<br>Clear standards.</h2><p>Casting news, releases, and conversations about the craft.</p><div class="standard-line"><span class="check-symbol">✓</span> Reporting you can trace</div><div class="standard-line"><span class="check-symbol">✓</span> Direct, on-record interviews</div><div class="standard-line excluded"><span>×</span> Gossip, rumors & private lives</div><a href="#sources" class="text-link">Our source standards <span aria-hidden="true">↗</span></a></section><section class="check-card"><span class="eyebrow">KEEPING AN EYE OUT</span><p id="check-status">Reading the last source check…</p><span id="check-detail" class="muted">Scheduled checks every 6 hours.</span><button id="refresh-button" class="text-link">Refresh archive <span aria-hidden="true">↻</span></button></section><div class="sidebar-note">An independent fan project.<br>Not affiliated with Inde Navarrette.</div></aside></div>
+        <div class="page-heading"><h1 id="news-title">Inde Navarrette</h1></div>
+        <div class="toolbar">
+          <div class="filters" role="group" aria-label="Filter news">
+            <button class="filter active" data-filter="All" aria-pressed="true">All news <span id="all-count">0</span></button>
+            <button class="filter" data-filter="Film" aria-pressed="false">Film</button>
+            <button class="filter" data-filter="Television" aria-pressed="false">Television</button>
+            <button class="filter" data-filter="Interview" aria-pressed="false">Interviews</button>
+          </div>
+          <label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.5 4.5"/></svg><input id="search" type="search" placeholder="Search news" aria-label="Search news"></label>
+        </div>
+        <div class="feed-heading">
+          <div class="update-status"><span id="check-status">Loading…</span><button id="refresh-button" aria-label="Refresh archive" title="Refresh archive">↻</button></div>
+          <h2 id="feed-title" class="sr-only">News</h2>
+          <label class="sort-label"><span class="sr-only">Sort news</span><select id="sort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></label>
+        </div>
+        <p id="check-detail" class="status-detail" hidden></p>
+        <div id="news-feed" aria-live="polite" aria-busy="true"><div class="glass loading-state">Loading news…</div></div>
       </section>
       <section id="sources-view" class="view" aria-labelledby="sources-title" hidden></section>
     </main>
-    <footer><span class="footer-wordmark">inde.</span><span>News with a little more intention.</span><a href="#sources">Sources & standards <span aria-hidden="true">↗</span></a></footer>
+    <footer><span>Independent fan project. Unaffiliated with Inde Navarrette.</span><a href="#sources">Sources</a></footer>
   </div>
-  <dialog id="install-dialog" class="glass"><button id="close-dialog" class="close-button" aria-label="Close install instructions">×</button><img src="./icons/icon-192.png" alt="Inde app icon" width="76" height="76"><div class="eyebrow">MAKE A LITTLE SPACE</div><h2>Inde, on your home screen.</h2><p>Open the tracker like an app, with the latest downloaded archive available offline.</p><button id="native-install" class="primary-button" hidden>Install Inde</button><div class="install-instructions"><h3>iPhone or iPad</h3><p>Open this site in Safari. Tap <strong>Share</strong>, then <strong>Add to Home Screen</strong>.</p><h3>Android</h3><p>Open in Chrome. Tap the menu, then <strong>Install app</strong> or <strong>Add to Home screen</strong>.</p><h3>Desktop</h3><p>In Chrome or Edge, use the install icon in the address bar when available.</p></div></dialog>
+  <dialog id="install-dialog" class="glass">
+    <button id="close-dialog" class="close-button" aria-label="Close install instructions">×</button>
+    <img src="./icons/icon-192.png" alt="Inde app icon" width="64" height="64">
+    <h2>Install Inde</h2>
+    <p>Add the tracker to your home screen. Downloaded news is available offline.</p>
+    <button id="native-install" class="primary-button" hidden>Install Inde</button>
+    <div class="install-instructions">
+      <h3>iPhone or iPad</h3><p>In Safari, tap <strong>Share</strong>, then <strong>Add to Home Screen</strong>.</p>
+      <h3>Android</h3><p>In Chrome, open the menu and tap <strong>Install app</strong> or <strong>Add to Home screen</strong>.</p>
+      <h3>Desktop</h3><p>Use Chrome or Edge’s install icon in the address bar when available.</p>
+    </div>
+  </dialog>
   <div id="toast" role="status" hidden></div>
-  <noscript><p class="noscript">Please enable JavaScript to browse and filter the news archive.</p></noscript>
+  <noscript><p class="noscript">Please enable JavaScript to browse the news archive.</p></noscript>
 </body>
 </html>

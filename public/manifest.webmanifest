@@ -1,17 +1,30 @@
 {
   "id": "./",
-  "name": "Inde — The news tracker",
+  "name": "Inde \u2014 The news tracker",
   "short_name": "Inde",
-  "description": "Inde Navarrette's work, from sources worth reading.",
+  "description": "News about Inde Navarrette from credible sources.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1423",
-  "theme_color": "#101f32",
+  "background_color": "#f3f8fd",
+  "theme_color": "#f3f8fd",
   "lang": "en",
-  "categories": ["news", "entertainment"],
+  "categories": [
+    "news",
+    "entertainment"
+  ],
   "icons": [
-    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
-    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }

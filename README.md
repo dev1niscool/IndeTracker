@@ -1,6 +1,6 @@
 # Inde — The news tracker
 
-A liquid-glass PWA for credible coverage of Inde Navarrette's career. The public Sources tab documents what qualifies, what is excluded, and the limits of automated discovery.
+A white and light-blue liquid-glass PWA for credible coverage of Inde Navarrette's career. The public Sources tab documents what qualifies, what is excluded, and the limits of automated discovery.
 
 **Website:** https://dev1niscool.github.io/IndeTracker/
 
@@ -10,7 +10,8 @@ A liquid-glass PWA for credible coverage of Inde Navarrette's career. The public
 - Fourteen individually reviewed starting articles covering 2020–2026, plus conservatively filtered RSS discoveries.
 - Publisher-owned Inde tag feeds and recent news feeds from Variety, Deadline and The Hollywood Reporter, checked every six hours with GitHub Actions.
 - Clear separation between reviewed source types and automatic **Feed discovery** entries. Automated entries use publisher headlines without generated summaries.
-- Dedicated source standards, publisher directory, current check status and a corrections link.
+- A compact single-column feed, source standards, publisher directory, current check status and a corrections link.
+- Fresh archive downloads on every visit, tab return and reconnection. X-Men / XMen and Navarrette / Navarette search variants are supported.
 - Responsive layout, keyboard navigation, reduced-motion support, standalone installation, generated icons and a network-first offline archive.
 
 ## Run locally
@@ -25,6 +26,7 @@ Open http://localhost:4173. The deployable site is entirely inside `public/`. Al
 
 ```sh
 python3 -m unittest discover -s tests -v
+node --test tests/test_search.mjs tests/test_worker.mjs
 python3 scripts/update_news.py
 ```
 
@@ -39,6 +41,8 @@ Pages must use **GitHub Actions** as its source. The workflow needs `contents: w
 The filter requires her name in the headline, an approved HTTPS publisher domain, a valid non-future date, career-related wording, and no blocked rumor/gossip wording in the headline or RSS description. It intentionally favors fewer false positives over maximum recall. Keyword rules cannot replace full editorial review. Feed history is finite, and this archive does not promise every article on the web. Source failures and checks older than twelve hours are surfaced in the UI.
 
 Research provenance is retained in `scripts/research.json` and `scripts/research-additions.json`. The additions file supersedes earlier access failures and corrects the two syndicated Variety entries to their original URLs and dates.
+
+Each page load fetches the latest published archive with a minute-based cache key. Returning to a tab checks again after a 30-second throttle, and reconnecting checks immediately. The service worker stores a single canonical offline copy for each JSON file. These browser requests do not run the source scanner: GitHub Pages is static, and direct publisher/Google News RSS responses do not permit cross-origin browser reads. The six-hour source schedule remains unchanged.
 
 ## Home-screen icon
 
