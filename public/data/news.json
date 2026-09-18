@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-09-17T21:25:36.169935+00:00",
-  "lastSuccessfulCheckAt": "2026-09-17T21:25:36.169935+00:00",
+  "lastCheckedAt": "2026-09-18T04:48:04.512079+00:00",
+  "lastSuccessfulCheckAt": "2026-09-18T04:48:04.512079+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-09-17T21:25:36.169935+00:00",
+      "checkedAt": "2026-09-18T04:48:04.512079+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 6
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-09-17T21:25:36.169935+00:00",
+      "checkedAt": "2026-09-18T04:48:04.512079+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-09-17T21:25:36.169935+00:00",
+      "checkedAt": "2026-09-18T04:48:04.512079+00:00",
       "status": "ok",
       "itemsChecked": 7,
       "matches": 4
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-09-17T21:25:36.169935+00:00",
+      "checkedAt": "2026-09-18T04:48:04.512079+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,22 +44,34 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-09-17T21:25:36.169935+00:00",
+      "checkedAt": "2026-09-18T04:48:04.512079+00:00",
       "status": "ok",
-      "itemsChecked": 3,
-      "matches": 2
+      "itemsChecked": 4,
+      "matches": 3
     },
     {
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-09-17T21:25:36.169935+00:00",
+      "checkedAt": "2026-09-18T04:48:04.512079+00:00",
       "status": "ok",
       "itemsChecked": 10,
-      "matches": 0
+      "matches": 1
     }
   ],
   "articles": [
+    {
+      "id": "feed-95b382e3b9b6c9",
+      "title": "Inde Navarrette: I Didn’t “Want to Make Any Friends” During ‘Obsession’ Shoot to Focus on Film",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-didnt-make-friends-curry-barker-1236705004/",
+      "date": "2026-09-18",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-09-18T04:48:04.512079+00:00"
+    },
     {
       "id": "variety-tiff-return-2026",
       "title": "‘Obsession’ One Year Later: Inde Navarrette and Curry Barker Dish on Memes, How Nikki Became More ‘Flirty’ and Their Wild Ride at TIFF",
