@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-09-30T22:18:58.176719+00:00",
-  "lastSuccessfulCheckAt": "2026-09-30T22:18:58.176719+00:00",
+  "lastCheckedAt": "2026-10-01T06:00:48.628488+00:00",
+  "lastSuccessfulCheckAt": "2026-10-01T06:00:48.628488+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-09-30T22:18:58.176719+00:00",
+      "checkedAt": "2026-10-01T06:00:48.628488+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 6
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-09-30T22:18:58.176719+00:00",
+      "checkedAt": "2026-10-01T06:00:48.628488+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-09-30T22:18:58.176719+00:00",
+      "checkedAt": "2026-10-01T06:00:48.628488+00:00",
       "status": "ok",
       "itemsChecked": 7,
       "matches": 4
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-09-30T22:18:58.176719+00:00",
+      "checkedAt": "2026-10-01T06:00:48.628488+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,16 +44,16 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-09-30T22:18:58.176719+00:00",
+      "checkedAt": "2026-10-01T06:00:48.628488+00:00",
       "status": "ok",
-      "itemsChecked": 4,
+      "itemsChecked": 5,
       "matches": 3
     },
     {
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-09-30T22:18:58.176719+00:00",
+      "checkedAt": "2026-10-01T06:00:48.628488+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
