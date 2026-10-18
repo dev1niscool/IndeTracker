@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-10-18T11:12:33.443352+00:00",
-  "lastSuccessfulCheckAt": "2026-10-18T11:12:33.443352+00:00",
+  "lastCheckedAt": "2026-10-18T15:54:20.153389+00:00",
+  "lastSuccessfulCheckAt": "2026-10-18T15:54:20.153389+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-18T11:12:33.443352+00:00",
+      "checkedAt": "2026-10-18T15:54:20.153389+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 7
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-10-18T11:12:33.443352+00:00",
+      "checkedAt": "2026-10-18T15:54:20.153389+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-18T11:12:33.443352+00:00",
+      "checkedAt": "2026-10-18T15:54:20.153389+00:00",
       "status": "ok",
       "itemsChecked": 7,
       "matches": 4
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-10-18T11:12:33.443352+00:00",
+      "checkedAt": "2026-10-18T15:54:20.153389+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,7 +44,7 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-10-18T11:12:33.443352+00:00",
+      "checkedAt": "2026-10-18T15:54:20.153389+00:00",
       "status": "ok",
       "itemsChecked": 6,
       "matches": 3
@@ -53,13 +53,25 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-10-18T11:12:33.443352+00:00",
+      "checkedAt": "2026-10-18T15:54:20.153389+00:00",
       "status": "ok",
       "itemsChecked": 10,
-      "matches": 0
+      "matches": 1
     }
   ],
   "articles": [
+    {
+      "id": "feed-24249c768a1a60",
+      "title": "The Best-Dressed Stars at the Academy Museum Gala, Including Inde Navarrette and Taylor Swift",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/best-dressed-stars-academy-museum-gala-2026-1236734403/",
+      "date": "2026-10-18",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-10-18T15:54:20.153389+00:00"
+    },
     {
       "id": "feed-5c2989f82200e2",
       "title": "Inde Navarrette, Jaafar Jackson and More: Variety’s 10 Actors to Watch Spotlights ‘Obsession,’ ‘Michael,’ ‘La Bola Negra’ and Beyond",
