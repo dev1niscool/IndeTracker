@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-10-21T11:55:09.063093+00:00",
-  "lastSuccessfulCheckAt": "2026-10-21T11:55:09.063093+00:00",
+  "lastCheckedAt": "2026-10-21T17:15:45.227147+00:00",
+  "lastSuccessfulCheckAt": "2026-10-21T17:15:45.227147+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-21T11:55:09.063093+00:00",
+      "checkedAt": "2026-10-21T17:15:45.227147+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 7
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-10-21T11:55:09.063093+00:00",
+      "checkedAt": "2026-10-21T17:15:45.227147+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-21T11:55:09.063093+00:00",
+      "checkedAt": "2026-10-21T17:15:45.227147+00:00",
       "status": "ok",
       "itemsChecked": 7,
       "matches": 4
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-10-21T11:55:09.063093+00:00",
+      "checkedAt": "2026-10-21T17:15:45.227147+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,16 +44,16 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-10-21T11:55:09.063093+00:00",
+      "checkedAt": "2026-10-21T17:15:45.227147+00:00",
       "status": "ok",
-      "itemsChecked": 6,
-      "matches": 3
+      "itemsChecked": 8,
+      "matches": 4
     },
     {
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-10-21T11:55:09.063093+00:00",
+      "checkedAt": "2026-10-21T17:15:45.227147+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -320,6 +320,18 @@
       "review": "curated",
       "summary": "In a Rotten Tomatoes and Focus Features interview, Navarrette discusses playing Nikki and the balance of humor and seriousness during filming. She also names performances and films that have influenced her.",
       "accessNote": "Article readable; embedded video not separately viewed. Summary is limited to the article's editorial description."
+    },
+    {
+      "id": "feed-7624cc2bff6664",
+      "title": "Inside ‘Obsession’s’ Ending: Inde Navarrette on Nikki’s Fate and Becoming Horror’s Newest Scream Queen",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/obsession-ending-inde-navarrette-explained-twist-interview-1236597250/",
+      "date": "2026-05-16",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-10-21T17:15:45.227147+00:00"
     },
     {
       "id": "focus-barker-casting-2026",
