@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-10-24T20:53:21.210174+00:00",
-  "lastSuccessfulCheckAt": "2026-10-24T20:53:21.210174+00:00",
+  "lastCheckedAt": "2026-10-25T04:46:54.705733+00:00",
+  "lastSuccessfulCheckAt": "2026-10-25T04:46:54.705733+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-24T20:53:21.210174+00:00",
+      "checkedAt": "2026-10-25T04:46:54.705733+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 7
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-10-24T20:53:21.210174+00:00",
+      "checkedAt": "2026-10-25T04:46:54.705733+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-24T20:53:21.210174+00:00",
+      "checkedAt": "2026-10-25T04:46:54.705733+00:00",
       "status": "ok",
       "itemsChecked": 8,
       "matches": 4
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-10-24T20:53:21.210174+00:00",
+      "checkedAt": "2026-10-25T04:46:54.705733+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,22 +44,34 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-10-24T20:53:21.210174+00:00",
+      "checkedAt": "2026-10-25T04:46:54.705733+00:00",
       "status": "ok",
-      "itemsChecked": 9,
-      "matches": 5
+      "itemsChecked": 10,
+      "matches": 6
     },
     {
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-10-24T20:53:21.210174+00:00",
+      "checkedAt": "2026-10-25T04:46:54.705733+00:00",
       "status": "ok",
       "itemsChecked": 10,
-      "matches": 0
+      "matches": 1
     }
   ],
   "articles": [
+    {
+      "id": "feed-0437ca76448f55",
+      "title": "Inde Navarrette Teases Her Rogue Southern Accent for New ‘X-Men’ Film: “Sugar!”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-rogue-southern-accent-x-men-film-1236739602/",
+      "date": "2026-10-24",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-10-25T04:46:54.705733+00:00"
+    },
     {
       "id": "feed-0037b2c9851661",
       "title": "‘Obsession’ Star Inde Navarrette Says Gen Z Wants Films ‘Where We’re Not Being Sold. We Are Tired of Ads in Movies and Product Placement’",
