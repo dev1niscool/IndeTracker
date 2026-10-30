@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-10-30T13:00:22.707322+00:00",
-  "lastSuccessfulCheckAt": "2026-10-30T13:00:22.707322+00:00",
+  "lastCheckedAt": "2026-10-30T22:24:29.049136+00:00",
+  "lastSuccessfulCheckAt": "2026-10-30T22:24:29.049136+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-30T13:00:22.707322+00:00",
+      "checkedAt": "2026-10-30T22:24:29.049136+00:00",
       "status": "ok",
       "itemsChecked": 10,
-      "matches": 6
+      "matches": 5
     },
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-10-30T13:00:22.707322+00:00",
+      "checkedAt": "2026-10-30T22:24:29.049136+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,16 +26,16 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-10-30T13:00:22.707322+00:00",
+      "checkedAt": "2026-10-30T22:24:29.049136+00:00",
       "status": "ok",
-      "itemsChecked": 8,
-      "matches": 4
+      "itemsChecked": 12,
+      "matches": 5
     },
     {
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-10-30T13:00:22.707322+00:00",
+      "checkedAt": "2026-10-30T22:24:29.049136+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,7 +44,7 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-10-30T13:00:22.707322+00:00",
+      "checkedAt": "2026-10-30T22:24:29.049136+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 6
@@ -53,13 +53,37 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-10-30T13:00:22.707322+00:00",
+      "checkedAt": "2026-10-30T22:24:29.049136+00:00",
       "status": "ok",
       "itemsChecked": 10,
-      "matches": 0
+      "matches": 1
     }
   ],
   "articles": [
+    {
+      "id": "feed-66307ec438ef6c",
+      "title": "Santa Barbara Film Festival Awards: Inde Navarrette, Jaafar Jackson & Carrie Coon Among Virtuoso Award Recipients",
+      "url": "https://deadline.com/2026/10/santa-barbara-film-festival-awards-2027-honorees-1237112049/",
+      "date": "2026-10-30",
+      "publisher": "Deadline",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-10-30T22:24:29.049136+00:00"
+    },
+    {
+      "id": "feed-c7888e72c9d5b1",
+      "title": "Santa Barbara Film Fest: Inde Navarrette, Jaafar Jackson Among Eight Tapped for Virtuoso Awards",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-inde-navarrette-virtuoso-awards-1236743864/",
+      "date": "2026-10-30",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-10-30T22:24:29.049136+00:00"
+    },
     {
       "id": "feed-0437ca76448f55",
       "title": "Inde Navarrette Teases Her Rogue Southern Accent for New ‘X-Men’ Film: “Sugar!”",
@@ -167,6 +191,18 @@
       "review": "curated",
       "summary": "Variety named Navarrette to its 2026 class of 10 Actors to Watch, citing her work in Obsession and upcoming role in X-Men. The announcement schedules the group’s profiles and Newport Beach Film Festival celebration for October.",
       "accessNote": "Full original publisher article readable via HTTP 200. Exact h1 and datePublished checked."
+    },
+    {
+      "id": "feed-5493c57707155d",
+      "title": "Jalen Brunson To Host ‘SNL’ Season 52 Premiere; Dakota Johnson, Shane Gillis & Inde Navarrette Also Set For Studio 8H",
+      "url": "https://deadline.com/2026/09/jalen-brunson-snl-season-52-premiere-1237072434/",
+      "date": "2026-09-09",
+      "publisher": "Deadline",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-10-30T22:24:29.049136+00:00"
     },
     {
       "id": "waffle-house-index-casting-2026",
