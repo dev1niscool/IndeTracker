@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-11-02T16:07:08.011329+00:00",
-  "lastSuccessfulCheckAt": "2026-11-02T16:07:08.011329+00:00",
+  "lastCheckedAt": "2026-11-03T01:01:24.968857+00:00",
+  "lastSuccessfulCheckAt": "2026-11-03T01:01:24.968857+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-11-02T16:07:08.011329+00:00",
+      "checkedAt": "2026-11-03T01:01:24.968857+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 4
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-11-02T16:07:08.011329+00:00",
+      "checkedAt": "2026-11-03T01:01:24.968857+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-11-02T16:07:08.011329+00:00",
+      "checkedAt": "2026-11-03T01:01:24.968857+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 5
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-11-02T16:07:08.011329+00:00",
+      "checkedAt": "2026-11-03T01:01:24.968857+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,7 +44,7 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-11-02T16:07:08.011329+00:00",
+      "checkedAt": "2026-11-03T01:01:24.968857+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 5
@@ -53,13 +53,25 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-11-02T16:07:08.011329+00:00",
+      "checkedAt": "2026-11-03T01:01:24.968857+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
     }
   ],
   "articles": [
+    {
+      "id": "feed-b774a44c79932a",
+      "title": "‘Obsession’ Breakout Inde Navarrette to Receive Rising Star Award at Palm Springs Film Awards (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/inde-navarrette-palm-springs-rising-star-award-1236936250/",
+      "date": "2026-11-02",
+      "publisher": "Variety",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-11-03T01:01:24.968857+00:00"
+    },
     {
       "id": "feed-66307ec438ef6c",
       "title": "Santa Barbara Film Festival Awards: Inde Navarrette, Jaafar Jackson & Carrie Coon Among Virtuoso Award Recipients",
