@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-11-11T19:38:50.311302+00:00",
-  "lastSuccessfulCheckAt": "2026-11-11T19:38:50.311302+00:00",
+  "lastCheckedAt": "2026-11-12T07:16:04.773100+00:00",
+  "lastSuccessfulCheckAt": "2026-11-12T07:16:04.773100+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-11-11T19:38:50.311302+00:00",
+      "checkedAt": "2026-11-12T07:16:04.773100+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 3
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-11-11T19:38:50.311302+00:00",
+      "checkedAt": "2026-11-12T07:16:04.773100+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-11-11T19:38:50.311302+00:00",
+      "checkedAt": "2026-11-12T07:16:04.773100+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 3
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-11-11T19:38:50.311302+00:00",
+      "checkedAt": "2026-11-12T07:16:04.773100+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,7 +44,7 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-11-11T19:38:50.311302+00:00",
+      "checkedAt": "2026-11-12T07:16:04.773100+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 5
@@ -53,13 +53,25 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-11-11T19:38:50.311302+00:00",
+      "checkedAt": "2026-11-12T07:16:04.773100+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
     }
   ],
   "articles": [
+    {
+      "id": "feed-6349559981d8f2",
+      "title": "From Inde Navarrette’s Stunning 40-Carat Diamond Necklace to a Surprise Role Model Performance: Inside David Yurman’s VIP Dinner Party at Chateau Marmont",
+      "url": "https://variety.com/gallery/inde-navarrettes-role-model-david-yurman-party/",
+      "date": "2026-11-11",
+      "publisher": "Variety",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-11-12T07:16:04.773100+00:00"
+    },
     {
       "id": "feed-b774a44c79932a",
       "title": "‘Obsession’ Breakout Inde Navarrette to Receive Rising Star Award at Palm Springs Film Awards (EXCLUSIVE)",
