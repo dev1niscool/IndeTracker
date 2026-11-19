@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "curatedAt": "2026-09-15",
-  "lastCheckedAt": "2026-11-19T07:30:32.802203+00:00",
-  "lastSuccessfulCheckAt": "2026-11-19T07:30:32.802203+00:00",
+  "lastCheckedAt": "2026-11-19T20:41:34.342595+00:00",
+  "lastSuccessfulCheckAt": "2026-11-19T20:41:34.342595+00:00",
   "feedStatus": [
     {
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-11-19T07:30:32.802203+00:00",
+      "checkedAt": "2026-11-19T20:41:34.342595+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 3
@@ -17,7 +17,7 @@
       "sourceId": "variety",
       "publisher": "Variety",
       "url": "https://variety.com/feed/",
-      "checkedAt": "2026-11-19T07:30:32.802203+00:00",
+      "checkedAt": "2026-11-19T20:41:34.342595+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
@@ -26,7 +26,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/tag/inde-navarrette/feed/",
-      "checkedAt": "2026-11-19T07:30:32.802203+00:00",
+      "checkedAt": "2026-11-19T20:41:34.342595+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 2
@@ -35,7 +35,7 @@
       "sourceId": "deadline",
       "publisher": "Deadline",
       "url": "https://deadline.com/feed/",
-      "checkedAt": "2026-11-19T07:30:32.802203+00:00",
+      "checkedAt": "2026-11-19T20:41:34.342595+00:00",
       "status": "ok",
       "itemsChecked": 12,
       "matches": 0
@@ -44,7 +44,7 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/t/inde-navarrette/feed/",
-      "checkedAt": "2026-11-19T07:30:32.802203+00:00",
+      "checkedAt": "2026-11-19T20:41:34.342595+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 5
@@ -53,13 +53,25 @@
       "sourceId": "thr",
       "publisher": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/feed/",
-      "checkedAt": "2026-11-19T07:30:32.802203+00:00",
+      "checkedAt": "2026-11-19T20:41:34.342595+00:00",
       "status": "ok",
       "itemsChecked": 10,
       "matches": 0
     }
   ],
   "articles": [
+    {
+      "id": "feed-689896055958f4",
+      "title": "‘Obsession’ Breakout Inde Navarrette to Receive Spotlight Tribute at Gotham Film Awards (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-spotlight-tribute-gotham-awards-1236759136/",
+      "date": "2026-11-19",
+      "publisher": "The Hollywood Reporter",
+      "category": "Film",
+      "sourceType": "Trade reporting",
+      "review": "feed",
+      "summary": "",
+      "discoveredAt": "2026-11-19T20:41:34.342595+00:00"
+    },
     {
       "id": "feed-56d9ad0dbf2738",
       "title": "‘Heated Rivalry’ Star Connor Storrie, ‘Obsession’ Ingenue Inde Navarette and ‘Backrooms’ Filmmaker Kane Parsons Set as BAFTA U.S. Breakouts",
